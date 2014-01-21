@@ -218,11 +218,19 @@ header{
 }
 
 #home .wrapper{
-	margin-top:20%;
+	margin-top:30%;
 }
 
 #home h1{
+	align:center;
 	font-size: 60px; line-height: 100px;	margin-bottom: 30px;
+	text-shadow: 1px 1px 1px #000000;
+        filter: dropshadow(color=#000000, offx=1, offy=1);
+}
+
+#home ho{
+	align:center;
+	font-size: 20px; 
 	text-shadow: 1px 1px 1px #000000;
         filter: dropshadow(color=#000000, offx=1, offy=1);
 }
@@ -425,4 +433,11 @@ header{
 }
 .social-links ul li a:hover i.icon-google-plus-sign{
 	color:#d34836;
+}
+
+#logo{
+	width: 40px;
+	height: 40px;
+	background: url("img/bg/square.png");
+
 }

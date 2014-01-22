@@ -441,3 +441,19 @@ header{
 	background: url("img/bg/square.png");
 
 }
+
+.cr{
+
+	font-family: "AgenvyFB";
+	font-size: 20px;
+	font-weight: 20px;
+	
+}
+.boxd{
+  height: 400;
+  width: 372px;
+  background-color: rgba(0,81,146,0.2);
+  border-radius: 7px;
+
+
+}
